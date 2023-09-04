@@ -1,0 +1,16 @@
+body{
+margin: 0;
+padding: 0;
+background-color: blue;
+}
+.collapse{
+
+display: flex !important;
+justify-content: flex-end;
+
+}
+i{
+
+font-size: 5em;
+
+}
